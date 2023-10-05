@@ -1,8 +1,8 @@
 # Deep Learning with Python
 
-#### Second Edition
+Second Edition
 
-#### Francois Chollet
+Francois Chollet
 
 ## What is Deep Learning?
 
