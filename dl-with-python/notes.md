@@ -17,7 +17,7 @@
 
 ### Artificial intelligence
 
-- Resumidamente, IA pode ser descrita como ** esforço para automatizar tarefas intelectuais normalmente executadas por humanos **
+- Resumidamente, IA pode ser descrita como **esforço para automatizar tarefas intelectuais normalmente executadas por humanos**
 - Desde da origem da ideia de IA em 1950 até 1980, o conceito de aprendizado (learning) não era comum. Os programas eram desenvolvidos através de regras explicitas a partir de dados explicitos, essa técnica ficou conhecida como IA simbólica.
 
 ### Machine learning
