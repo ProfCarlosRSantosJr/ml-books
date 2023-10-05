@@ -4,7 +4,7 @@ Second Edition
 
 Francois Chollet
 
-## What is Deep Learning?
+## Ch1. What is Deep Learning?
 
 - É preciso ser capaz de identificar a verdade em meios aos ruídos.
 
